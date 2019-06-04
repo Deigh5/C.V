@@ -1,0 +1,17 @@
+*
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+
+}
+h1, h2
+{
+    text-align: center;
+    
+}
+body
+{
+    background-image: url(school.jpg);
+    height: 100vh;
+    background-size: cover;
+}
